@@ -7,6 +7,7 @@ Used Material
 
 Required:
 - Arduino Nano v3
+- LCD 16x2 screen
 - RTC module
 - Water pump (5V)
 - Water level sensor
